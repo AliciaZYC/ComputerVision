@@ -1,0 +1,8 @@
+Flask
+numpy
+opencv-python
+easyocr
+googletrans
+Pillow
+certifi
+tailwindcss
