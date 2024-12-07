@@ -1,0 +1,4 @@
+cellphone
+lamp
+remote_control
+tv
